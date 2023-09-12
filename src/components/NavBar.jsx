@@ -45,6 +45,16 @@ export default function NavBar({ active }) {
                     </Link>
 
                 </li>
+                <li className="flex w-600 justify-between items-start flex-shrink-0">
+                    <Link
+                        href="/login"
+                        className={`${active === "login" ? "text-green-pea-50" : "text-green-pastel-dark"
+                            }`}
+                    >
+                        Login
+                    </Link>
+
+                </li>
             </ul>
             <DropMenu/>
             {/* <div className="h-12 w-12 rounded-full overflow-hidden">
