@@ -92,5 +92,11 @@ Abra o projeto em sua IDE preferida e execute-o. Certifique-se de ter as depend�
 # Como investir
 A AgroSync é uma oportunidade de investimento promissora no mercado agrícola brasileiro, com um potencial significativo de monetização e um mercado em expansão. Para mais informações sobre como investir na AgroSync, entre em contato conosco através do nosso site.
 
+# Integrantes
+- RM94311	Marcos Henrique Bilobram dos Santos
+- RM96320	Nathália de Queiroz Maia
+- RM94972	Rafaela Gomes da Silva
+- RM93613	Vinicius de Oliveira
+
 # Contato
 Para mais informações sobre a AgroSync, [Visite nosso site](https://www.canva.com/design/DAFttqn5Qu0/hA5Vu3mvXgfnydYoT665Gw/view?website#2).
